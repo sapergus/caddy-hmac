@@ -1,4 +1,4 @@
-module github.com/yknx4/caddy-hmac
+module github.com/sapergus/caddy-hmac
 
 go 1.21
 
